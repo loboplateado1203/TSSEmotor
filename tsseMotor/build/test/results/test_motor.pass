@@ -1,0 +1,46 @@
+---
+:source:
+  :path: test
+  :file: test_motor.c
+:successes:
+- :test: test_Motor_setup
+  :line: 27
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ejecutarBotones1
+  :line: 40
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ejecutarBotones2
+  :line: 52
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ejecutarBotones3
+  :line: 69
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ejecutarBotones4
+  :line: 81
+  :message: ''
+  :unity_test_time: 0
+- :test: test_acelerar
+  :line: 93
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Motor_step1
+  :line: 105
+  :message: ''
+  :unity_test_time: 0
+- :test: test_Motor_step2
+  :line: 117
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 8
+  :passed: 8
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.002600898999844503

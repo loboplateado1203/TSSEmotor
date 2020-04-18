@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<TestRun>
+	<FailedTests/>
+	<SuccessfulTests>
+		<Test id="1">
+			<Name>test/test_motor.c::test_Motor_setup</Name>
+		</Test>
+		<Test id="2">
+			<Name>test/test_motor.c::test_ejecutarBotones1</Name>
+		</Test>
+		<Test id="3">
+			<Name>test/test_motor.c::test_ejecutarBotones2</Name>
+		</Test>
+		<Test id="4">
+			<Name>test/test_motor.c::test_ejecutarBotones3</Name>
+		</Test>
+		<Test id="5">
+			<Name>test/test_motor.c::test_ejecutarBotones4</Name>
+		</Test>
+		<Test id="6">
+			<Name>test/test_motor.c::test_acelerar</Name>
+		</Test>
+		<Test id="7">
+			<Name>test/test_motor.c::test_Motor_step1</Name>
+		</Test>
+		<Test id="8">
+			<Name>test/test_motor.c::test_Motor_step2</Name>
+		</Test>
+	</SuccessfulTests>
+	<IgnoredTests/>
+	<Statistics>
+		<Tests>8</Tests>
+		<Ignores>0</Ignores>
+		<FailuresTotal>0</FailuresTotal>
+		<Errors>0</Errors>
+		<Failures>0</Failures>
+	</Statistics>
+</TestRun>
